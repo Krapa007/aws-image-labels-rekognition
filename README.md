@@ -46,10 +46,14 @@ Console Output + labels_output.json
 ## 📸 Screenshots
 
 ### S3 Bucket Setup
-![S3 Bucket Creation](screenshots/s3-bucket-creation.png)
+
+<img width="723" height="556" alt="image" src="https://github.com/user-attachments/assets/814387bc-7f54-4439-9580-17ef0a9c0272" />
+
 
 ### IAM Permissions Setup
-![IAM Permissions](screenshots/iam-permissions-setup.png)
+
+<img width="631" height="301" alt="image" src="https://github.com/user-attachments/assets/052ecb6e-4b4f-48b9-ae65-0c57bff4d147" />
+
 
 ---
 
