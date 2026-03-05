@@ -1,0 +1,28 @@
+# AWS Credentials - NEVER commit these
+.env
+*.pem
+aws-credentials.json
+credentials
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Output files
+*.json
+*.mp3
+*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
